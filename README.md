@@ -43,6 +43,5 @@
    타일즈 https://attic.apache.org/projects/tiles.html
 
 4. 개발 기능일정  2022. 08. 31 ~ 2022. 09. 30 (Kotline)
-   + 웹 완료일 08/01 00:00 ~ 08/29 - 03:00
   
 5. 화면구성
